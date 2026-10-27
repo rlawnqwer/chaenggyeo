@@ -6,3 +6,4 @@
 4. 표시된 GitHub Pages 주소로 앱을 엽니다.
 
 주의: 이 버전은 기기별 localStorage 저장입니다. 부부 실시간 공유와 Firebase 로그인은 아직 지원하지 않습니다. 설정에서 JSON 백업을 사용하세요.
+챙겨! v2.0 - Firebase 가족 공유 앱
